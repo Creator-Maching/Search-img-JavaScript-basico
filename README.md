@@ -24,13 +24,6 @@ O Search-img-Legacy é uma galeria de imagens interativa, feita em HTML, CSS e J
 
 🚀 Como Usar
 
-Clone o repositório:
-
-git clone https://github.com/Creator-Maching/Search-img-legacy.git
-
-
-Abra o arquivo index.html no navegador.
-
 Use os botões de filtro ou o campo de busca para encontrar imagens.
 
 👤 Autor
